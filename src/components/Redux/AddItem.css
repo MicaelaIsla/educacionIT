@@ -1,0 +1,11 @@
+.Details__AddButton {
+  background-color: white;
+  border: solid 1px black;
+  border-radius: 2.5rem;
+  color: black;
+  font-size: 1.1rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}

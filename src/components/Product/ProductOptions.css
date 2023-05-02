@@ -1,0 +1,17 @@
+.Details__ColorsTitle,
+.Details__SizesTitle {
+  align-self: start;
+  margin: 0.75rem 2rem;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.Details__Colors,
+.Details__Sizes {
+  display: flex;
+  gap: 1rem;
+  font-size: 1.1rem;
+  align-self: flex-start;
+  margin-bottom: 2rem;
+  margin-left: 2rem;
+}

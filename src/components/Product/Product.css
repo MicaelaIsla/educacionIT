@@ -1,0 +1,24 @@
+.Boxs1,
+.Boxs2,
+.Boxs3 {
+  color: black;
+  text-decoration: none;
+}
+
+.Boxs1 {
+  background-image: url("../../..//public/Fotos/Anteojos/ali-pazani-GwglcplmXDs-unsplash.jpg");
+  background-size: cover;
+  object-fit: contain;
+}
+
+.Boxs2 {
+  background-image: url("../../..//public/Fotos/Anteojos/Anteojos.jpg");
+  background-size: cover;
+  object-fit: contain;
+}
+
+.Boxs3 {
+  background-image: url("../../..//public/Fotos/Anteojos/apostolos-vamvouras-mKi4QEJXRCs-unsplash.jpg");
+  background-size: cover;
+  object-fit: contain;
+}

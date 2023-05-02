@@ -1,0 +1,39 @@
+.Cart__Container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  border: solid 1px black;
+  border-radius: 2rem;
+  font-size: 18px;
+  margin-top: 2rem;
+  padding: 0 1rem;
+  width: 75%;
+}
+
+.Cart__Title {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  margin-top: 1.5rem;
+}
+
+.Cart__Details {
+  margin-bottom: 1.5rem;
+}
+
+.Cart__BottomRow {
+  width: 100%;
+  display: flex;
+  gap: 40%;
+  margin-bottom: 0.75rem;
+}
+
+.Cart__Quantity {
+  width: 100%;
+  background-color: lightgrey;
+  border-radius: 1.5rem;
+  padding: 0.1rem 1rem;
+  display: flex;
+  align-items: center;
+  gap: 37.5%;
+}

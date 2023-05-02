@@ -1,0 +1,17 @@
+.User__Link {
+  color: black;
+  text-decoration: none;
+}
+
+.User_ID {
+  display: block;
+}
+
+.User__Name {
+  display: block;
+}
+
+.User__Email {
+  display: block;
+  margin-bottom: 1rem;
+}

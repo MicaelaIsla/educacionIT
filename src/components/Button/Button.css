@@ -1,0 +1,42 @@
+.Cart__ShopButton,
+.Cart__PayButton {
+  width: 100%;
+  background-color: white;
+  border: solid 1px black;
+  color: black;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 1rem;
+}
+
+.Details__AddButton {
+  background-color: white;
+  border: solid 1px black;
+  border-radius: 2.5rem;
+  color: black;
+  font-size: 1.1rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.Details__ReturnButton {
+  color: grey;
+  font-size: 20px;
+  text-decoration: none;
+  margin: 2rem;
+}
+
+.Header__Cart1 {
+  display: inline-block;
+  border: solid 1px black;
+  border-radius: 1rem;
+  color: black;
+  font-size: 1.25rem;
+  text-decoration: none;
+  padding: 0.1rem 1rem;
+  margin-bottom: 0.9rem;
+}
